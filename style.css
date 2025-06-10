@@ -42,3 +42,7 @@ p{
 #menu a:hover{
   color: #5077bd;
 }
+
+#center{
+    text-align: center;
+}
