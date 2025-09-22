@@ -1,11 +1,11 @@
 .gallery img {
-    width: 100%;
+    width: 75%;
 }
 
 h2{
     font-family:Impact, fantasy;
     text-align: center;
-    font-size: 30px;
+    font-size: 100px;
     color: cornflowerblue;
     font-style: italic;
 }
@@ -20,6 +20,7 @@ h4{
 p{
     font-family: Helvetica, sans-serif;
     font-style: italic;
+    font-size: 75px:
 }
 
 #menu{
